@@ -109,7 +109,6 @@ curl.exe -X POST http://localhost:5000/predict `
 **POST /predict**
 
 Запрос:
-```json
 {
   "features": [массив из 23 чисел]
 }
