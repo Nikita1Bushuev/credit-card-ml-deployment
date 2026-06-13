@@ -60,7 +60,7 @@ credit-card-ml-deployment/
 ### Запуск локально
 1. Клонировать репозиторий и перейти в папку:
     ```powershell
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/Nikita1Bushuev/credit-card-ml-deployment.git)
    cd credit-card-ml-deployment
 
 2. Создать и активировать виртуальное окружение:
