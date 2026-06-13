@@ -105,6 +105,11 @@ curl.exe -X POST http://localhost:5000/predict `
 
 {"model_version":"v1","prediction":1,"probability":0.6853887472043826}
 
+### Демонстрация работы API
+<img width="908" height="169" alt="image" src="https://github.com/user-attachments/assets/c3467126-e28b-46a1-8713-04ea3b90d850" />
+
+<img width="899" height="577" alt="image" src="https://github.com/user-attachments/assets/e054f711-840f-42b8-aab2-30536a9c9fbe" />
+
 ## Описание формата запросов и ответов
 **POST /predict**
 
